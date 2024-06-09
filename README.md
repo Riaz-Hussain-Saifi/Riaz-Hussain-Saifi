@@ -16,7 +16,7 @@
 • 📗 I'm currently Learning (GenEng) from GIAIC.<br>
 • 🚀 I'm a Consistent, Hard-working, and a Motivated person.<br> 
 • 🌊 I'm pursing Blockchain, AI, and Web Development, and I have expertise in Prompt Engineering.<br>
-• 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/riaz-hussain-saifi)!<br>
+• 📫 Reach me via LinkedIn https://www.linkedin.com/in/riaz-hussain-saifi <br>
 <hr>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h3>
@@ -47,8 +47,6 @@
 
 <h2>⚡ Skills</h2>
 
-| #                                                                                                              | #                                                                                                                          | #                                                                                                            | #    |
-| :------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--- |
 | <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F">                       | <img src="https://img.shields.io/badge/-Windows-0D1117?style=flat-square&logo=Windows&logoColor=F0DB4F">     |
 | <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=F0DB4F">                         | <img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F">             |
 | <img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=F0DB4F">           | <img src="https://img.shields.io/badge/-SASS-0D1117?style=flat-square&logo=sass&logoColor=F0DB4F">                         | <img src="https://img.shields.io/badge/-Remix-0D1117?style=flat-square&logo=remix&logoColor=F0DB4F">         |
@@ -60,7 +58,7 @@
 <hr>
 <p align="center">
  The sustenance that Allah has destined for you will undoubtedly reach you.<br>
- Persue it with diligence, courage and honestly, <br>
+ Persue it with diligence, courage and honestly <br>
 	and no one will be can able to take it way from you. <br>
 	
 </p>
